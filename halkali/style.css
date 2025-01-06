@@ -1,0 +1,116 @@
+*{ box-sizing: border-box;}
+
+body{
+    margin: 0;
+    font-family:  'Lato', sans-serif;
+}
+
+.main-header{ 
+    background-color: #FFFAF4;
+    padding: 8px 16px;
+}
+
+.main-nav{
+    display: inline-block;
+    /* width: 100%; */
+    /* text-align: center; */
+    margin-top: 60px;
+    margin-left: 10px;
+    position: absolute;
+
+}
+
+.main-nav__item{
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.main-nav__item a{
+    text-decoration: none;
+    color: black;
+}
+
+.main-nav__items{
+    list-style: none;
+}
+
+p{
+    color: #fff;
+}
+
+h3{
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+}
+
+.col-1{
+    display: inline-block;
+    width: calc(50% - 2px);
+    height: 350px;
+    vertical-align: top;
+}
+
+.features-left{
+    background: url(testliner.png);
+    background-color: #9E6F21;
+    background-size: cover;
+    background-position: top center;
+}
+
+.features-right{
+    background-color: #9E6F21;
+    padding: 40px;
+    vertical-align: top;
+}
+
+.bg {
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.halkalibg1{
+    height: 50vh;
+    background-image: url(halkalibg1.jpg);
+}
+
+.features-left-2{
+    background: url(flutter.jpg);
+    background-color: #9E6F21;
+    background-size: cover;
+    background-position: top center;
+}
+
+.features-right-2{
+    background-color: #9E6F21;
+    padding: 40px;
+    vertical-align: top;
+}
+
+.halkalibg2{
+    height: 50vh;
+    background-image: url(halkalibg2.jpg);
+}
+
+.features-left-3{
+    background: url(grikarton.png);
+    background-color: #9E6F21;
+    background-size: cover;
+    background-position: top center;
+}
+
+.features-right-3{
+    background-color: #9E6F21;
+    padding: 40px;
+    vertical-align: top;
+}
+
+.halkalibg3{
+    height: 50vh;
+    background-image: url(halkalibg3.jpg);
+}
+
+
+
+
