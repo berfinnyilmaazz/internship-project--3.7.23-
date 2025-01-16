@@ -1,5 +1,6 @@
-#First website project 
-This is my first website project with html and css.Hope you like it.
+# First website project
+<br>
+This is my first website project with using only html and css. Hope you like it.
 
 
 
